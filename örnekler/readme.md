@@ -1,13 +1,15 @@
+# Burada öğrenirken aldığım notlar bulunmaktadır.
+
 ## Projeyi ayağa kaldırmak
 
 Bir go dosyasını ayağa kaldırmak için çalıştırılmak istenilen dosyanın bulunduğu dizine girilip <pre> go run dosya_adi.go </pre> şeklinde bir kullanım var.
 
 
-### Sabitler
+## Sabitler
 
 Sabitler program yürütülürken değiştirilemeyen sabit değerleri ifade ederler.
 Bu değişmeyen değerlere sabitler(constans) denir.
-İlgili örneklerin dosyası : [a relative link](sabitler.go)
+İlgili örneklerin dosyası : [bu linke tıklayarak gidebilirsiniz](sabitler.go)
 
 ## Escape(Kaçış) karakterleri
 
