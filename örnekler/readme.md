@@ -33,6 +33,7 @@ Diğer programlama dillerinde olduğu gibi burada da kaçış karakterleri ve ku
 ## Döngüler
 
 Go dilinde döngülerin hepsi **for** anahtar sözcüğü ile başlar burada for döngüsü while, do while, foreach ve klasik for döngüsü şeklinde hareket edebiliyor. Bu sayede çok amaçlı bir for tipi elde etmişler.
+Örnekler için : [Bu linke tıklayabilirsiniz](loops.go)
 
 ## Fonksiyonlar
 
