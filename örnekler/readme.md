@@ -33,3 +33,19 @@ Diğer programlama dillerinde olduğu gibi burada da kaçış karakterleri ve ku
 ## Döngüler
 
 Go dilinde döngülerin hepsi **for** anahtar sözcüğü ile başlar burada for döngüsü while, do while, foreach ve klasik for döngüsü şeklinde hareket edebiliyor. Bu sayede çok amaçlı bir for tipi elde etmişler.
+
+## Fonksiyonlar
+
+Bildiğimiz üzere fonksiyonlar bir grup işlemi yaptırdığımız ve parametreler alıp geriye değer döndürebilen yapılardır.
+Go programlama dilinde her Go programı en az bir fonksiyona sahiptir bu da **main()** fonksiyonudur.
+Go'nun da kendi içerisinde beraberinde gelen bir çok yardımcı fonksiyon bulunmaktadır. Bunlara bir örnek vermek gerekir ise **len()** fonksiyonu bir dizinin eleman sayısını veya bir değişkenin aldığı değerin uzunluğunu verir.
+
+**Fonksiyon tanımlama**
+<pre>
+func fonksiyon_adi( [parametreler] ) [geri_donus_tipi]
+{
+    fonksiyonun gövdesi
+}
+</pre>
+
+Örnekler için : [Bu linke tıklayabilirsiniz](functions.go)
