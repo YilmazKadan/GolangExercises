@@ -29,3 +29,7 @@ Diğer programlama dillerinde olduğu gibi burada da kaçış karakterleri ve ku
 |     **\v**     |                       Dikey Tab                      |
 |    **\ooo**    |           Bir ila üç basamaklı sekizli sayı          |
 | **\xhh . . .** | Bir veya daha fazla basamaktan oluşan onaltılık sayı |
+
+## Döngüler
+
+Go dilinde döngülerin hepsi **for** anahtar sözcüğü ile başlar burada for döngüsü while, do while, foreach ve klasik for döngüsü şeklinde hareket edebiliyor. Bu sayede çok amaçlı bir for tipi elde etmişler.
