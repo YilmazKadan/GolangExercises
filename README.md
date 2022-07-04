@@ -61,3 +61,9 @@ func fonksiyon_adi( [parametreler] ) [geri_donus_tipi]
 
 Çoğu dilde olduğu gibi Go'da da değişkenlerin erişim alanları farklılık göstermekte.
 Bir fonksiyon veya blok içinde bildirilen değişkenlere yerel değişkenler denir. Yalnızca o işlev veya kod bloğu içindeki ifadeler tarafından kullanılabilirler. Yerel değişkenlerin kendi dışında işlev gördüğü bilinmemektedir.
+
+## Structures
+
+Golang'da structer farklı türdeki ögeleri tek bir grupta ve yapıda tutmamıza olanak sağlar. Javascript objelerine benzer bir yapıdadır. Golang'da OOP yaklaşımı olmasa bile bu yapılar OOP'deki gibi benzer özelliklere sahip olabilmektedir.
+
+Örnekler için : [Bu linke tıklayabilirsiniz](structures.go)
